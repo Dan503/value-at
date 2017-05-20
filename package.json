@@ -1,0 +1,24 @@
+{
+  "name": "value-at",
+  "version": "1.0.0",
+  "description": "A simple JavaScript getter/setter function for retrieving or changing a value in an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dan503/value-at.git"
+  },
+  "keywords": [
+    "array",
+    "getter",
+    "setter"
+  ],
+  "author": "Daniel Tonon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dan503/value-at/issues"
+  },
+  "homepage": "https://github.com/Dan503/value-at#readme"
+}
